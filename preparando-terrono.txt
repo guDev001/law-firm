@@ -1,0 +1,11 @@
+--Palete de cores
+Azul Forte: #41739E
+Azul meio-forte: #77B4EB
+Azul claro: #9CD1FF
+Marrom forte: #9E7431
+Marro claro: #EBBE78
+
+--Primeiros cards:
+Direito do Consumidor
+Direito do Trabalho
+Direito Cívil
